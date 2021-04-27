@@ -79,6 +79,10 @@ h6 {
   font-size: 0.75em;
   margin: 2.33em 0; }
 
+center{
+  align-items: center;
+}
+
 abbr[title] {
   border-bottom: 1px dotted; }
 
@@ -131,6 +135,8 @@ sub {
 
 img {
   border: 0; }
+
+
 
 svg:not(:root) {
   overflow: hidden; }
@@ -1366,7 +1372,7 @@ form input[type="submit"], form button, form input[type="reset"] {
   position: relative; }
   .hero-slider .slides {
     list-style: none;
-    *zoom: 1; }
+    *zoom: auto; }
     .hero-slider .slides:after {
       content: " ";
       clear: both;
@@ -1454,7 +1460,7 @@ form input[type="submit"], form button, form input[type="reset"] {
     font-weight: 300;
     margin-bottom: 0;
     text-transform: uppercase;
-    color: #f4c545;
+    color: #ffbb00;
     letter-spacing: 2px; }
   .project .project-subtitle {
     font-size: 12px;
