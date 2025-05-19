@@ -2008,12 +2008,12 @@ h1, h2, h3, h4, h5, h6,
 .site-title {
   font-family: 'BankGothic Md BT', sans-serif !important;
   color: #f58634 !important;
-  font-size: 22px !important; /* Assuming original was 18px */
+  font-size: 20px !important; /* Assuming original was 18px */
 }
 
 .site-description {
   font-family: 'BankGothic Md BT', sans-serif !important;
-  font-size: 15px !important; /* Assuming original was 11px */
+  font-size: 14px !important; /* Assuming original was 11px */
 }
 
 
